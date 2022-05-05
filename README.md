@@ -1,7 +1,7 @@
 # NatashaD
 ## Datos personales
 - Deleg Natasha
-- Estudiiante de Biotecnologia
+- Estudiante de Biotecnologia
 - Loja
 - Mestizo
 - Español
