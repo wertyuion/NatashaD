@@ -1,4 +1,4 @@
-# NatashaD
+# BIOINFORMATICA 2021
 ## Datos personales
 - Deleg Natasha
 - Estudiante de Biotecnologia
