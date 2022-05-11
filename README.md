@@ -14,3 +14,4 @@
 ## EJECUCION
 
 Este es el repositorio de la clase de bioinformática semestre 20211
+control de la vercion con GitHub desktop
